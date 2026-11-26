@@ -76,3 +76,31 @@ This is the metric definition used in this project.
   Total Interest                    7.9M
   Transaction Amount                 45M
   Transaction Count                 657K
+
+## Business Insights
+
+Based on the analysis of credit card transactions and customer demographics, we gained the following insights:
+
+1. **Overall Revenue:** The business generated approximately $55.4M in revenue, with total interest earnings of approximately $7.9M.
+
+2. **Card Category:** Blue credit cards contribute the highest revenue, followed by Silver, Gold and Platinum cards.
+
+3. **Expenditure Patterns:** Bills represent the highest revenue-generating expenditure category, followed by Entertainment, Fuel and Grocery.
+
+4. **Customer Education:** Graduate customers contribute the largest share of revenue among different education groups.
+
+5. **Customer Occupation:** Self-employed customers generate the highest revenue, followed by Businessmen and Blue-collar professionals.
+
+6. **Transaction Methods:** Swipe transactions contribute the highest revenue, followed by Chip and Online transactions.
+
+7. **Quarterly Performance:** Q3 records the highest revenue and transaction count, while Q4 records the lowest revenue.
+
+8. **Gender Analysis:** Male customers contribute approximately $31M in revenue, compared to $26M from female customers.
+
+9. **Geographical Analysis:** Texas, New York and California together contribute approximately 68% of the overall revenue.
+
+10. **Customer Activation:** The overall customer activation rate is approximately 57.5%, while the delinquency rate stands at 6.06%.
+
+### Conclusion
+
+The analysis highlights the major revenue-generating customer segments, popular expenditure categories and transaction patterns. These insights can help the business understand customer behaviour, identify its strongest-performing segments and make more informed decisions regarding customer engagement and credit card services.
